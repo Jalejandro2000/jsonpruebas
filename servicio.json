@@ -13,15 +13,13 @@
     "rol": "Admin",
     "user": "Admin2",
     "pass": "admin2",
-
-    "Death": "No",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/4/4f/Mikasa_Ackermann_%28Anime%29_character_image.png"
   },
   {
     "id": 3,
     "name": "alej3",
     "rol": "normal",
-    "user": "admin3",
+    "user": "Admin3",
     "pass": "admin3",
     "img": "https://static.wikia.nocookie.net/shingekinokyojin/images/9/93/Armin_Arlelt_%28Anime%29_character_image.png"
   }
